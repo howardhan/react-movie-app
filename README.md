@@ -1,0 +1,1 @@
+This is a movie searching app using react, tailwindcss and public apis and appwrite for data storage, displaying popular movies and counting each user search, based on that displaying trending search movies.
